@@ -1,0 +1,57 @@
+1. What is Web Development?
+
+Web development is the process of building websites and web applications that run on the internet. It involves creating the structure, design, functionality, and performance of websites to provide a smooth user experience.
+
+2. Main Areas of Web Development
+
+a) Frontend (Client-Side)
+
+What users see and interact with directly.
+
+Technologies: HTML, CSS, JavaScript, frameworks like React, Vue, Angular.
+
+Responsibilities: layout, design, responsiveness, interactivity.
+
+b) Backend (Server-Side)
+
+Powers the website behind the scenes.
+
+Technologies: Node.js, Python (Django/Flask), PHP, Java (Spring Boot), .NET.
+
+Responsibilities: database management, authentication, server logic, APIs.
+
+c) Database
+
+Stores and retrieves data for the website.
+
+Examples: MySQL, PostgreSQL, MongoDB.
+
+d) Full-Stack
+
+A developer skilled in both frontend and backend.
+
+Can build a complete web application from start to finish.
+
+3. Common Tools and Platforms
+
+Version control: Git, GitHub, GitLab
+
+Package managers: npm, yarn
+
+Deployment platforms: Vercel, Netlify, AWS, Heroku
+
+APIs: REST, GraphQL
+
+4. Types of Web Applications
+
+Static websites: Fixed content, simple, fast.
+
+Dynamic websites: Content changes based on user actions.
+
+Single-page applications (SPA): Loads once, dynamically updates content (React, Angular).
+
+Progressive web apps (PWA): Web apps with offline capability, like mobile apps.
+
+5. Conclusion
+
+Web development is a combination of creativity and logic. Frontend handles the look and feel, backend handles functionality and data, and together they create interactive, efficient web applications.
